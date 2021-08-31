@@ -1,5 +1,6 @@
-#author : @akash kumar
-
+# author : @akash kumar
+# problem link: 
+# https://prepinsta.com/tcs-coding-question-1/
 x,y,d,t=0,0,10,1
 for n in range(int(input())):
     if t==1:
