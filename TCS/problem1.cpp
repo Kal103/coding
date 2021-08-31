@@ -59,5 +59,4 @@ int main()
 	return 0;
 }
 
-
 // time complexity is :- T(n)=O(n)
