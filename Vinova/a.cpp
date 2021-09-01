@@ -9,6 +9,7 @@ int MaxSubarray(int arr[], int size) {
   // code goes here
  int max_end=0;
  int max_so=INT_MIN;
+ cout<<max_so<<endl;
   for(int i=0;i<size;++i)
   {
     if(arr[i]<=max_end+arr[i])
