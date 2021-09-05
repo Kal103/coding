@@ -1,8 +1,6 @@
 /* author : @akash kumar 
    github : https://www.github.com/Akash671
-*/
-
-/* 
+    
 problem is:-
 problem statement link - https://prepinsta.com/tcs-coding-question-1/
 */
@@ -60,6 +58,5 @@ int main()
     cout<<"\n";
 	return 0;
 }
-
 
 // time complexity is :- T(n)=O(n)
