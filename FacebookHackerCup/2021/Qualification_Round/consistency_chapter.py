@@ -1,4 +1,5 @@
 #author : @Akash_Kumar
+
 for t in range(1,int(input())+1):
    s=str(input())
    
