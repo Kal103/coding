@@ -1,3 +1,5 @@
+#author : @akashs 
+
 for _ in range(int(input())):
    def power(x,n):
       res=1
